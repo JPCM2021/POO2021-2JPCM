@@ -1,0 +1,3 @@
+C:/Users/jpces/OneDrive/Documents/JAVERIANA/SEMESTRE 3/POO/LUFE/POO/CasinoEstudiantes/cmake-build-debug/CMakeFiles/casino.dir
+C:/Users/jpces/OneDrive/Documents/JAVERIANA/SEMESTRE 3/POO/LUFE/POO/CasinoEstudiantes/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jpces/OneDrive/Documents/JAVERIANA/SEMESTRE 3/POO/LUFE/POO/CasinoEstudiantes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
