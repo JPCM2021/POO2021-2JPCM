@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jpces/OneDrive/Documents/JAVERIANA/SEMESTRE 3/POO/TRABAJOS/AltosNizaPruebasCompleto/src/Model/Fundador.h
+iostream
+-
+Propietario.h
+C:/Users/jpces/OneDrive/Documents/JAVERIANA/SEMESTRE 3/POO/TRABAJOS/AltosNizaPruebasCompleto/src/Model/Propietario.h
+
+C:/Users/jpces/OneDrive/Documents/JAVERIANA/SEMESTRE 3/POO/TRABAJOS/AltosNizaPruebasCompleto/src/Model/Propiedad.h
+iostream
+-
+
+C:/Users/jpces/OneDrive/Documents/JAVERIANA/SEMESTRE 3/POO/TRABAJOS/AltosNizaPruebasCompleto/src/Model/Propietario.h
+iostream
+-
+Propiedad.h
+C:/Users/jpces/OneDrive/Documents/JAVERIANA/SEMESTRE 3/POO/TRABAJOS/AltosNizaPruebasCompleto/src/Model/Propiedad.h
+
+C:/Users/jpces/OneDrive/Documents/JAVERIANA/SEMESTRE 3/POO/TRABAJOS/AltosNizaPruebasCompleto/test/AdminTest.cpp
+gtest/gtest.h
+C:/Users/jpces/OneDrive/Documents/JAVERIANA/SEMESTRE 3/POO/TRABAJOS/AltosNizaPruebasCompleto/test/gtest/gtest.h
+../src/Model/Fundador.h
+C:/Users/jpces/OneDrive/Documents/JAVERIANA/SEMESTRE 3/POO/TRABAJOS/AltosNizaPruebasCompleto/src/Model/Fundador.h
+

@@ -1,0 +1,100 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/Model/Admin.h
+iostream
+-
+map
+-
+Propietario.h
+../src/Model/Propietario.h
+Reventa.h
+../src/Model/Reventa.h
+Fundador.h
+../src/Model/Fundador.h
+
+../src/Model/Fundador.h
+iostream
+-
+Propietario.h
+../src/Model/Propietario.h
+
+../src/Model/Propiedad.h
+iostream
+-
+
+../src/Model/Propietario.h
+iostream
+-
+Propiedad.h
+../src/Model/Propiedad.h
+
+../src/Model/Reventa.h
+iostream
+-
+Propietario.h
+../src/Model/Propietario.h
+
+C:/Users/jpces/OneDrive/Documents/JAVERIANA/SEMESTRE 3/POO/TRABAJOS/AltosNizaPruebasCompleto/src/Model/Admin.cpp
+Admin.h
+C:/Users/jpces/OneDrive/Documents/JAVERIANA/SEMESTRE 3/POO/TRABAJOS/AltosNizaPruebasCompleto/src/Model/Admin.h
+
+C:/Users/jpces/OneDrive/Documents/JAVERIANA/SEMESTRE 3/POO/TRABAJOS/AltosNizaPruebasCompleto/src/Model/Admin.h
+iostream
+-
+map
+-
+Propietario.h
+C:/Users/jpces/OneDrive/Documents/JAVERIANA/SEMESTRE 3/POO/TRABAJOS/AltosNizaPruebasCompleto/src/Model/Propietario.h
+Reventa.h
+C:/Users/jpces/OneDrive/Documents/JAVERIANA/SEMESTRE 3/POO/TRABAJOS/AltosNizaPruebasCompleto/src/Model/Reventa.h
+Fundador.h
+C:/Users/jpces/OneDrive/Documents/JAVERIANA/SEMESTRE 3/POO/TRABAJOS/AltosNizaPruebasCompleto/src/Model/Fundador.h
+
+C:/Users/jpces/OneDrive/Documents/JAVERIANA/SEMESTRE 3/POO/TRABAJOS/AltosNizaPruebasCompleto/src/Model/Fundador.cpp
+Fundador.h
+C:/Users/jpces/OneDrive/Documents/JAVERIANA/SEMESTRE 3/POO/TRABAJOS/AltosNizaPruebasCompleto/src/Model/Fundador.h
+
+C:/Users/jpces/OneDrive/Documents/JAVERIANA/SEMESTRE 3/POO/TRABAJOS/AltosNizaPruebasCompleto/src/Model/Fundador.h
+iostream
+-
+Propietario.h
+C:/Users/jpces/OneDrive/Documents/JAVERIANA/SEMESTRE 3/POO/TRABAJOS/AltosNizaPruebasCompleto/src/Model/Propietario.h
+
+C:/Users/jpces/OneDrive/Documents/JAVERIANA/SEMESTRE 3/POO/TRABAJOS/AltosNizaPruebasCompleto/src/Model/Propiedad.h
+iostream
+-
+
+C:/Users/jpces/OneDrive/Documents/JAVERIANA/SEMESTRE 3/POO/TRABAJOS/AltosNizaPruebasCompleto/src/Model/Propietario.h
+iostream
+-
+Propiedad.h
+C:/Users/jpces/OneDrive/Documents/JAVERIANA/SEMESTRE 3/POO/TRABAJOS/AltosNizaPruebasCompleto/src/Model/Propiedad.h
+
+C:/Users/jpces/OneDrive/Documents/JAVERIANA/SEMESTRE 3/POO/TRABAJOS/AltosNizaPruebasCompleto/src/Model/Reventa.h
+iostream
+-
+Propietario.h
+C:/Users/jpces/OneDrive/Documents/JAVERIANA/SEMESTRE 3/POO/TRABAJOS/AltosNizaPruebasCompleto/src/Model/Propietario.h
+
+C:/Users/jpces/OneDrive/Documents/JAVERIANA/SEMESTRE 3/POO/TRABAJOS/AltosNizaPruebasCompleto/src/View/View.cpp
+View.h
+C:/Users/jpces/OneDrive/Documents/JAVERIANA/SEMESTRE 3/POO/TRABAJOS/AltosNizaPruebasCompleto/src/View/View.h
+
+C:/Users/jpces/OneDrive/Documents/JAVERIANA/SEMESTRE 3/POO/TRABAJOS/AltosNizaPruebasCompleto/src/View/View.h
+iostream
+-
+map
+-
+Model/Admin.h
+C:/Users/jpces/OneDrive/Documents/JAVERIANA/SEMESTRE 3/POO/TRABAJOS/AltosNizaPruebasCompleto/src/View/Model/Admin.h
+
+C:/Users/jpces/OneDrive/Documents/JAVERIANA/SEMESTRE 3/POO/TRABAJOS/AltosNizaPruebasCompleto/src/main.cpp
+View/View.h
+C:/Users/jpces/OneDrive/Documents/JAVERIANA/SEMESTRE 3/POO/TRABAJOS/AltosNizaPruebasCompleto/src/View/View.h
+
